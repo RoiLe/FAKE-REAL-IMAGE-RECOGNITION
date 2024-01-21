@@ -1,4 +1,4 @@
-<b><u><h1>Data Science final project - Fake & Real images recognition</h1></u>
+<b><u><h1>Data Science final project - Fake & Real images recognition</h1></u></b>
 by Lior Guetta & Roi Levi
 
 In today's world, where technology is always moving forward, we've reached a point where it's hard to tell if a picture is real or made by a computer. Artificial intelligence (AI) has become so good at making images that look like real photos, it's becoming a challenge to tell them apart. This project focuses on figuring out which images are real and which are made by AI.
@@ -17,6 +17,7 @@ We're starting this project to separate real pictures from those made by AI, and
 
 
 <b>about the dataset</b>
+
 The dataset we will be utilizing is CIFAKE, which comprises 60,000 synthetically generated images and 60,000 authentic images sourced from CIFAR-10. CIFAR-10 is a widely employed collection of images for training machine learning and computer vision algorithms. It encompasses pictures of airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks, making it one of the most prevalent datasets in machine learning research. The dataset is categorized into two classes: <b>REAL and FAKE</b>.
 
 For the REAL class, the images were collected from Krizhevsky & Hinton's CIFAR-10 (Canadian Institute For Advanced Research) dataset.
